@@ -13,5 +13,15 @@
     "dotenv": "^6.2.0",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oinksu/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/oinksu/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/oinksu/LIRI-Bot#readme"
 }
