@@ -45,7 +45,7 @@ Once downloaded, run the command "npm install" to download the necessary items f
 Executing program
 The program is run through your command line terminal with the following: *node liri.js (command) "(argument)"
 
-Link to version:
+Link to version: https://github.com/oinksu/LIRI-Bot
 
 Role: Documentation 
 
